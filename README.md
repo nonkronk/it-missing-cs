@@ -1,2 +1,2 @@
 # it-missing-cs
-The Missing Semester of Your CS Education (Exercise): https://missing.csail.mit.edu/
+The Missing Semester of Your CS Education (Exercises): https://missing.csail.mit.edu/
