@@ -13,9 +13,9 @@
 `$ touch tmp/missing/semester`
 
 5. Write the following into that file, one line at a time:  
-`#!/bin/sh  
-curl --head --silent https://missing.csail.mit.edu`  
-
+`#!/bin/sh`  
+`curl --head --silent https://missing.csail.mit.edu`  
+  
 `$ echo "#!/bin/sh" > tmp/missing/semester`  
 `$ echo "curl --head --silent https://missing.csail.mit.edu" >> tmp/missing/semester`
 
