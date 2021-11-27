@@ -1,4 +1,4 @@
-### Written solution
+# Written solution
 
 1. Make sure you're running an appropriate shell  
 `$ echo $SHELL`
